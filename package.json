@@ -1,0 +1,23 @@
+{
+  "name": "experience_canada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whdesigns/Experience_Canada.git"
+  },
+  "author": "Will Hughes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whdesigns/Experience_Canada/issues"
+  },
+  "homepage": "https://github.com/whdesigns/Experience_Canada#readme",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "react": "^16.12.0"
+  }
+}
